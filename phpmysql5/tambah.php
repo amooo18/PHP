@@ -87,3 +87,6 @@ if( isset($_POST["submit"]) ) {
     
 </body>
 </html>
+
+
+// cek apabila data berhasil masuk atau tidak
